@@ -4,7 +4,7 @@ Uma CLI em Python para listar **pods** e suas respectivas **imagens Docker** em 
 
 Permite filtrar por **namespaces**, exibindo os resultados em uma tabela formatada com cores para melhor visualização.
 
-Este projeto foi desenvolvido como parte de um curso de Python aplicado a DevOps e pode ser usado como ferramenta de apoio para inspeção rápida de workloads em clusters Kubernetes.
+Este projeto foi desenvolvido como parte do curso [**Python para DevOps**](https://www.udemy.com/course/python-para-devops/?couponCode=KEEPLEARNINGBR), podendo ser usado como ferramenta de apoio para inspeção rápida de workloads em clusters Kubernetes, e servir de inspiração para futuros projetos.
 
 ---
 
